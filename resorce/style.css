@@ -43,3 +43,15 @@ form button{
     color: white;
     cursor: pointer;
 }
+.lf-linear{
+    height: 50px;
+    background-color: #97D446; /* For browsers that do not support gradients */
+    background-image: linear-gradient(to right,#97D446, #6EAC0D);
+}
+.bg-tags{
+    background-color: #F0F0F0;
+
+}
+.la-t {
+    text-align: center;
+}
