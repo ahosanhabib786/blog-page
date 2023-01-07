@@ -5,6 +5,9 @@
     font-family: 'Roboto Condensed', sans-serif;
     box-sizing: border-box;
 }
+.border-1{
+    border:1px solid gray;
+}
 .banner{
     height: 150px;
     width: 100%;
@@ -12,6 +15,7 @@
     background-image: linear-gradient(#8BC43F, #C4E19E);
 }
 .boxShadow{
+
     -webkit-box-shadow: 0 0 10px gray;
     box-shadow: 0 0 10px gray;
 }
@@ -54,4 +58,7 @@ form button{
 }
 .la-t {
     text-align: center;
+}
+.bg-clr{
+    background-color: #97D446;
 }
